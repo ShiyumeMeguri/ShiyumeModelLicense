@@ -117,7 +117,7 @@
 3. 条款可能随时修改且不另行通知
 4. 继续使用视为接受最新条款
 5. 条款以 GitHub 最新版本为最高优先：
-https://github.com/ShiyumeMeguri/ShiyumeModelLicense/README.md
+https://github.com/ShiyumeMeguri/ShiyumeModelLicense/blob/main/README.md
 该仓库内容优先于任何本地下载或转载版本
 
 ---
