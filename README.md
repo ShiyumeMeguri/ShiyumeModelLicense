@@ -21,7 +21,7 @@ https://github.com/ShiyumeMeguri/ShiyumeModelLicense/blob/main/README.md
 3. 模型本体或素材再配布
 4. 低质量修改或提取素体伪装自制模型(是不是自制的看你布线就够了)
 5. 任何赞助、订阅或变相盈利（含
-   Patreon 等平台）
+   Patreon 等平台、视频制作收益除外）
 6. 上传至
    VRChat
    或任何公开Avatar平台
